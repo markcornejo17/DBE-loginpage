@@ -1,0 +1,99 @@
+#bg {
+  height: 40%;
+  width: 40%;
+  margin-top: 30px;
+  margin-left: 160px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.blur {
+  width: 40%;
+  height: 214px;
+  background-color: white;
+  padding: 50px;
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
+  margin-top: 0px;
+  margin-left: 160px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#navbar {
+  height: 90px;
+}
+
+.logo {
+  border-radius: 5px;
+  margin-left: 10px;
+  padding-left: 3px;
+  padding-right: 13px;
+  width: 60px;
+  height: 50px;
+}
+
+.navbar-brand {
+  margin-right: 80%;
+}
+
+.text-center {
+  padding: 230px 10px 20px 10px;
+  margin-top: 30px;
+  margin-right: 10%;
+  margin-left: 60%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login-name {
+  margin-top: -100px;
+  padding-bottom: 60px;
+}
+
+.spaces {
+  height: 35px;
+}
+
+.little-space {
+  height: 15px;
+}
+
+.email {
+  width: 340px;
+  border-radius: 6px;
+  border: 1px solid gainsboro;
+  height: 40px;
+}
+
+.password {
+  width: 340px;
+  border-radius: 6px;
+  border: 1px solid gainsboro;
+  height: 40px;
+}
+
+.checkbox {
+  margin-right: 8px;
+  display: inline-block;
+  font-size: 12px;
+}
+
+#button {
+  width: 340px;
+  border-radius: 6px;
+}
+
+.reminder {
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.text-start {
+  padding-left: 40px;
+}
+
+.form-logo {
+  position: absolute;
+  width: 80px;
+  height: 70px;
+  margin-top: -200px;
+  margin-left: -28px;
+}
